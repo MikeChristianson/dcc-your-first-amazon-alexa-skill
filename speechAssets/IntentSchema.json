@@ -1,7 +1,22 @@
 {
   "intents": [
     {
-      "intent": "HelloWorldIntent"
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "GetCurrentWeather"
+    },
+    {
+      "intent": "GetCurrentTemperature"
+    },
+    {
+      "intent": "GetReading",
+      "slots": [
+        {
+          "name": "reading",
+          "type": "READINGS"
+        }
+      ]
     }
   ]
 }

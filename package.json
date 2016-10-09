@@ -1,0 +1,31 @@
+{
+  "name": "dcc-your-first-amazon-alexa-skill",
+  "version": "1.0.0",
+  "description": "Your First Amazon Alexa Skill - DCC 2016.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeChristianson/dcc-your-first-amazon-alexa-skill.git"
+  },
+  "keywords": [
+    "dcc",
+    "desertcodecamp",
+    "2016.1",
+    "helloworld",
+    "alexa",
+    "skill"
+  ],
+  "author": "Mike Christianson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MikeChristianson/dcc-your-first-amazon-alexa-skill/issues"
+  },
+  "homepage": "https://github.com/MikeChristianson/dcc-your-first-amazon-alexa-skill#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0",
+    "sync-request": "^3.0.1"
+  }
+}

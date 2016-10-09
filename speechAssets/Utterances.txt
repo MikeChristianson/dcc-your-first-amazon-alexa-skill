@@ -1,3 +1,11 @@
-HelloWorldIntent hello
-HelloWorldIntent say hello
-HelloWorldIntent say hello world
+AMAZON.HelpIntent help
+GetReading {reading}
+GetReading what's the {reading}
+GetReading what's the current {reading}
+GetReading get {reading}
+GetCurrentTemperature how hot is it
+GetCurrentTemperature how cold is it
+GetCurrentWeather what's the weather
+GetCurrentWeather what's the weather like
+GetCurrentWeather what's the current weather
+GetCurrentWeather what's it like outside
